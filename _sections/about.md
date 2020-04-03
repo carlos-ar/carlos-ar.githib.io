@@ -1,9 +1,8 @@
 ---
 title: About
 subtitle: a little bit about me
-layout: "page"
 icon: fa-book
-order: 4
+order: 3
 ---
 
 # About page
