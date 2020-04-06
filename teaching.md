@@ -1,7 +1,7 @@
 ---
 title: Teaching
 subtitle: never the sage
-layout: "page"
+layout: home
 icon: fa-book
 order: 3
 ---

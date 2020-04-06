@@ -33,7 +33,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: the (bio) fluids 
+title: (bio) fluids 
 subtitle: always have an escape plan
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, welcome to my site on my research and general coding adventures
@@ -43,8 +43,8 @@ avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 # commented for local
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://carlos-ar.github.io" # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://carlos-ar.github.io" # the base hostname & protocol for your site
 
 # always forget to do this...
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -67,6 +67,8 @@ dribbble_url:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-# theme: jekyll-theme-prologue
-remote_theme: carlos-ar/jekyll-theme-prologue
-collections: [sections]
+theme: jekyll-theme-prologue
+# remote_theme: carlos-ar/jekyll-theme-prologue
+# collections: [sections]
+collections:
+  [sections]
