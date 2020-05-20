@@ -28,3 +28,7 @@ twitter_url: https://twitter.com/carlosarv19
 
 # Build settings
 markdown: kramdown
+
+# adding stuff for pages
+paginate: 3
+paginate_path: "updates/page:num"
