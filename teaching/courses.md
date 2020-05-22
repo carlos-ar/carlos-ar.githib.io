@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Courses
-image: assets/images/pic11.jpg
+image: assets/images/classroom.jpg
 ---
+## Engineering Courses
 
-## Title
+## Introduction to Research
 
-text
+## Seminars
 
 ------
-

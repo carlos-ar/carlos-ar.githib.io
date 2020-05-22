@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Elements
+hidden: True
 ---
 
 <h2 id="content">Sample Content</h2>
@@ -35,7 +36,6 @@ title: Elements
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
-
 		<!-- Text stuff -->
 			<h3>Text</h3>
 			<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
@@ -48,29 +48,24 @@ title: Elements
 			<h4>Heading Level 4</h4>
 			<hr />
 			<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
 		<!-- Lists -->
 			<h3>Lists</h3>
 			<div class="row">
 				<div class="6u 12u$(small)">
-
 					<h4>Unordered</h4>
 					<ul>
 						<li>Dolor etiam magna etiam.</li>
 						<li>Sagittis lorem eleifend.</li>
 						<li>Felis dolore viverra.</li>
 					</ul>
-
 					<h4>Alternate</h4>
 					<ul class="alt">
 						<li>Dolor etiam magna etiam.</li>
 						<li>Sagittis lorem eleifend.</li>
 						<li>Felis feugiat viverra.</li>
 					</ul>
-
 				</div>
 				<div class="6u$ 12u$(small)">
-
 					<h4>Ordered</h4>
 					<ol>
 						<li>Dolor etiam magna etiam.</li>
@@ -80,7 +75,6 @@ title: Elements
 						<li>Etiam vel lorem sed viverra.</li>
 						<li>Felis dolore viverra.</li>
 					</ol>
-
 					<h4>Icons</h4>
 					<ul class="icons">
 						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -90,7 +84,6 @@ title: Elements
 						<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 						<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
 					</ul>
-
 				</div>
 			</div>
 			<h4>Definition</h4>
@@ -108,7 +101,6 @@ title: Elements
 					<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
 				</dd>
 			</dl>
-
 			<h4>Actions</h4>
 			<ul class="actions">
 				<li><a href="#" class="button special">Default</a></li>
@@ -144,7 +136,6 @@ title: Elements
 					</ul>
 				</div>
 			</div>
-
 			<h4>Pagination</h4>
 			<ul class="pagination">
 				<li><span class="button disabled">Prev</span></li>
@@ -157,14 +148,11 @@ title: Elements
 				<li><a href="#" class="page">10</a></li>
 				<li><a href="#" class="button">Next</a></li>
 			</ul>
-
 		<!-- Blockquote -->
 			<h3>Blockquote</h3>
 			<blockquote>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</blockquote>
-
 		<!-- Table -->
 			<h3>Table</h3>
-
 			<h4>Default</h4>
 			<div class="table-wrapper">
 				<table>
@@ -210,7 +198,6 @@ title: Elements
 					</tfoot>
 				</table>
 			</div>
-
 			<h4>Alternate</h4>
 			<div class="table-wrapper">
 				<table class="alt">
@@ -256,10 +243,8 @@ title: Elements
 					</tfoot>
 				</table>
 			</div>
-
 	</div>
 	<div class="6u$ 12u$(medium)">
-
 		<!-- Buttons -->
 			<h3>Buttons</h3>
 			<ul class="actions">
@@ -292,10 +277,8 @@ title: Elements
 				<li><span class="button special disabled">Special</span></li>
 				<li><span class="button disabled">Default</span></li>
 			</ul>
-
 		<!-- Form -->
 			<h3>Form</h3>
-
 			<form method="post" action="#">
 				<div class="row uniform">
 					<div class="6u 12u$(xsmall)">
@@ -351,10 +334,8 @@ title: Elements
 					</div>
 				</div>
 			</form>
-
 		<!-- Image -->
 			<h3>Image</h3>
-
 			<h4>Fit</h4>
 			<span class="image fit"><img src="assets/images/pic11.jpg" alt="" /></span>
 			<div class="box alt">
@@ -372,17 +353,14 @@ title: Elements
 					<div class="4u$"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
 				</div>
 			</div>
-
 			<h4>Left &amp; Right</h4>
 			<p><span class="image left"><img src="assets/images/pic01.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
 			<p><span class="image right"><img src="assets/images/pic02.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
-
 		<!-- Box -->
 			<h3>Box</h3>
 			<div class="box">
 				<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum.</p>
 			</div>
-
 		<!-- Preformatted Code -->
 			<h3>Preformatted</h3>
 			<pre><code>i = 0;
@@ -395,6 +373,5 @@ i++;
 
 print 'It took ' + i + ' iterations to sort the deck.';
 </code></pre>
-
 	</div>
 </div>

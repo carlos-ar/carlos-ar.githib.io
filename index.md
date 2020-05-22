@@ -11,7 +11,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="{{ 'teaching/prettypics.html' | absolute_url }}" class="image"><img src="assets/images/lung_regime.png" alt="" /></a>
 			<h3>Pretty Pictures</h3>
 			<p>This month, we are highlighting the importance of making our research accessible by using <b>better image creation</b>. In these times, <a href="https://twitter.com/search?q=%23sciComm&src=typed_query" target="_blank">#sciCommunication</a>, is becoming more important, and I believe that making effective presentations begins with our own science communities first. Check out more of my take on <b><em><u>effective graphics</u></em></b></p>
 			<ul class="actions fit">
@@ -19,7 +19,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/2020_paper.png" alt="" /></a>
 			<h3>Research Updates</h3>
 			<p>Soon, we will be pushing out our first paper. Check here for more information on our project</p>
 			<ul class="actions">
