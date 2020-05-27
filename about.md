@@ -18,6 +18,11 @@ title: About
 	</div>
 </div>
 </section>
+<hr class="major" />
+<section>
+	<h2 id="cv">Curriculum Vitae</h2>
+	<object data="assets/files/page.pdf" width="500" type='application/pdf'></object>
+</section>
 <!-- Class elements sizing, `class = "(num1)u (num1)u` syntax is as follow
 first number must be smaller than the second number, and the second number
 for example 6u 12u is that the section will take 6/12 units if possible. 
@@ -100,15 +105,39 @@ $ sign. So a continuous row section, the first number is not broken until $-->
 				</div>
 			</form>
 		</div>
-		<!-- <div class="4u 12u$(medium)">
-			3
-		</div>
 		<div class="4u 12u$(medium)">
+3
+		</div>
+		 <div class="4u 12u$(medium)">
 			4
 		</div>
 		<div class="4u$ 12u$(medium)">
 			5
-		</div> -->
+		 </div>
 	</div>
 </section>
-<hr class="major" />
+<section>
+	<form id="test-form">
+		<div>
+		    <label>Field 1</label>
+		    <input type="text" name="form_1" placeholder="Field 1">
+		</div>
+		<div>
+		    <label>Field 2</label>
+		    <input type="text" name="form_2" placeholder="Field 2">
+		</div>
+		<div>
+		    <label>Field 3</label>
+		    <input type="text" name="form_3" placeholder="Field 3">
+		</div>
+		<div>
+			<label>Field 4</label>
+			<input type="text" name="form_4" placeholder="Field 4">
+		</div>
+		<div>
+		    <button type="submit" id="submit-form">Submit</button>
+		</div>
+	</form>
+</section>
+<h2 id="content">Sample Content</h2>
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.</p>

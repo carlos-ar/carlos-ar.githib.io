@@ -32,3 +32,13 @@ markdown: kramdown
 # adding stuff for pages
 paginate: 3
 paginate_path: "updates/page:num"
+
+# adding collections
+collections_dir: collections
+collections:
+  pretty_pictures:
+    sort_by: lesson
+    output: true
+    permalink: /teaching/:collection/:name
+  pro:
+    sort_by: val

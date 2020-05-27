@@ -3,10 +3,15 @@ layout: page
 title: Courses
 image: assets/images/classroom.jpg
 ---
-## Engineering Courses
+## Courses at UC Davis
 
-## Introduction to Research
+### Engineering Courses
 
-## Seminars
+- Introduction to Fluid Mechanics
+  - Spring 2014
+
+### Introduction to Research
+
+### Seminars
 
 ------

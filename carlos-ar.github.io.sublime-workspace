@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"paginate",
+				"paginate_path"
+			],
+			[
 				"x",
 				"x_top"
 			],
@@ -112,22 +116,6 @@
 	"buffers":
 	[
 		{
-			"file": "index.md",
-			"settings":
-			{
-				"buffer_size": 3732,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "generic.md",
-			"settings":
-			{
-				"buffer_size": 5517,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "_layouts/default.html",
 			"settings":
 			{
@@ -147,7 +135,36 @@
 			"file": "_includes/sidebar.html",
 			"settings":
 			{
-				"buffer_size": 3709,
+				"buffer_size": 4502,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 578,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/google_script_form_ajax.js",
+			"settings":
+			{
+				"buffer_size": 361,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "var $form = $('form#test-form'),"
+			}
+		},
+		{
+			"file": "_includes/banner.html",
+			"settings":
+			{
+				"buffer_size": 780,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -160,31 +177,134 @@
 			}
 		},
 		{
-			"file": "_includes/footer.html",
+			"file": "_includes/head.html",
 			"settings":
 			{
-				"buffer_size": 402,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<!-- Banner -->\n  <section id=\"banner\">\n    <div class=\"content\">\n      <header>\n        <h1>Welcome to Carlos' biofluids webpage</h1>\n        <p></p>\n      </header>\n      <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>\n      <ul class=\"actions\">\n        <li><a href=\"#\" class=\"button big\">Learn More</a></li>\n      </ul>\n    </div>\n    <span class=\"image object\">\n      <img src=\"assets/images/pic10.jpg\" alt=\"\" />\n    </span>\n  </section>\n",
-			"file": "_includes/banner.html",
-			"file_size": 773,
-			"file_write_time": 132130649540000000,
-			"settings":
-			{
-				"buffer_size": 723,
+				"buffer_size": 560,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/head.html",
+			"contents": "https://script.google.com/macros/s/AKfycbwIwHJCdOySkNa-uz3Lj4X80ex2ZnoPBOHuhJVeEl_7q6b8qfo/exec",
 			"settings":
 			{
-				"buffer_size": 569,
+				"buffer_size": 95,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "elements.md",
+			"settings":
+			{
+				"buffer_size": 16097,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 6246,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/util.js",
+			"settings":
+			{
+				"buffer_size": 11847,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "teaching/prettypics.md",
+			"settings":
+			{
+				"buffer_size": 1865,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 4089,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 376,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "updates.md",
+			"settings":
+			{
+				"buffer_size": 836,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 9127,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "research/index.md",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "teaching/courses.md",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "research/particles.md",
+			"settings":
+			{
+				"buffer_size": 268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "progress.md",
+			"settings":
+			{
+				"buffer_size": 258,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "updates/index.html",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -220,17 +340,42 @@
 	},
 	"expanded_folders":
 	[
-		"/home/pinlos/projects/websites/carlos-ar.github.io"
+		"/home/pinlos/projects/websites/carlos-ar.github.io",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/_includes",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/assets",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/assets/css",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/assets/js",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/research",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/teaching"
 	],
 	"file_history":
 	[
-		"/home/pinlos/projects/websites/carlos-ar.github.io/adipiscing.md",
-		"/home/pinlos/projects/websites/carlos-ar.github.io/amet_lacina.md",
-		"/home/pinlos/projects/websites/carlos-ar.github.io/another_submenu.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/research/avianwildlife.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/assets/css/font-awesome.min.css",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/assets/css/main.css",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/.gitignore",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/_includes/youtubePlayer.html",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/about.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/teaching/prettypics.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/assets/css/video-embed.css",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/_layouts/youtubePlayer.html",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/updates/2020-05-12-second-try.md",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/etiam_dolore.md",
-		"/home/pinlos/projects/websites/carlos-ar.github.io/maximus_erat.md",
-		"/home/pinlos/projects/websites/carlos-ar.github.io/sapien_mauris.md",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/submenu.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/another_submenu.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/amet_lacina.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/adipiscing.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/maximus_erat.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/updates/index.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/updates/generic.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/updates/temp.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/temp.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/research.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/_site/research.html",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/generic.md",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/_sass/libs/_vars.scss",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/_site/assets/css/main.css",
+		"/home/pinlos/projects/websites/carlos-ar.github.io/sapien_mauris.md",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/_layouts/page.html",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/_config.yml",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/editorial_jekyll_theme.gemspec",
@@ -242,7 +387,6 @@
 		"/home/pinlos/projects/websites/carlos-ar.github.io/_includes/head.html",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/README.md",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/.gitlab-ci.yml",
-		"/home/pinlos/projects/websites/carlos-ar.github.io/.gitignore",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/_includes/sidebar.html",
 		"/home/pinlos/projects/websites/carlos-ar.github.io/index.md",
 		"/home/pinlos/.bash_aliases",
@@ -260,13 +404,14 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 102.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -274,6 +419,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"submit",
+			"form",
+			"sub",
+			"subm",
+			"submit",
+			"major",
+			"fonta",
+			"icon",
+			"fa",
+			"icon",
+			"br",
+			"text",
+			"row",
+			"4u",
+			"#f56a6a",
+			"#",
+			"accent",
+			"#066e84",
+			"color",
+			"></"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -281,6 +446,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"#066e84"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -291,68 +457,11 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3732,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								924,
-								924
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "generic.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5517,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "_layouts/default.html",
 					"semi_transient": false,
 					"settings":
@@ -378,11 +487,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 1,
 					"file": "_layouts/page.html",
 					"semi_transient": false,
 					"settings":
@@ -394,8 +503,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								734,
+								734
 							]
 						],
 						"settings":
@@ -408,29 +517,88 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 2,
 					"file": "_includes/sidebar.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3709,
+						"buffer_size": 4502,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2328,
+								2328
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/js/google_script_form_ajax.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var $form = $('form#test-form'),",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -443,6 +611,36 @@
 				},
 				{
 					"buffer": 5,
+					"file": "_includes/banner.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
@@ -454,8 +652,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								574,
+								574
 							]
 						],
 						"settings":
@@ -472,12 +670,39 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "_includes/footer.html",
+					"buffer": 7,
+					"file": "_includes/head.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 402,
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
 						"regions":
 						{
 						},
@@ -490,35 +715,213 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "_includes/banner.html",
+					"buffer": 9,
+					"file": "elements.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 723,
+						"buffer_size": 16097,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								146,
-								146
+								578,
+								578
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5661.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1147,
+								1147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 487.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 11,
+					"file": "assets/js/util.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8803,
+								8803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7508.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "teaching/prettypics.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "updates.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -526,24 +929,166 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "_includes/head.html",
+					"buffer": 16,
+					"file": "about.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 569,
+						"buffer_size": 9127,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								5556,
+								5556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1174.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "research/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "teaching/courses.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "research/particles.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "progress.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "updates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
 							]
 						],
 						"settings":
@@ -554,7 +1099,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 21,
 					"type": "text"
 				}
 			]
@@ -562,7 +1107,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -577,11 +1122,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -599,7 +1151,7 @@
 	"project": "carlos-ar.github.io.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -637,7 +1189,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 201.0,
+	"side_bar_width": 222.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

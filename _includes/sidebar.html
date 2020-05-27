@@ -15,7 +15,7 @@
             <h2>Menu</h2>
           </header>
           <ul>
-            <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
+            <li><a href="{{ 'index.html' | absolute_url }}">Homepage</a></li>
             <li><a href="{{ 'research/index.html' | absolute_url }}">Research</a></li>
             <li><a href="{{ 'updates/index.html' | absolute_url }}">Updates</a></li>
             <li>
@@ -40,7 +40,17 @@
             <li><a href="{{ 'progress.html' | absolute_url }}">Fun Escapes</a></li>
           </ul>
         </nav>
-
+        <section>
+          <header class="major">
+            <h2>License</h2>
+          </header>
+          <div class="mini-posts">
+            <article>
+              This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
+              <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+            </article>
+          </div>
+        </section>
       <!-- Section -->
         <section>
           <header class="major">
@@ -48,11 +58,11 @@
           </header>
           <div class="mini-posts">
             <article>
-              <a href="{{ 'research/particles.html' | absolute_url }}" class="image"><img src="../assets/images/droplet.jpg" alt="blue droplet splashing" /></a>
+              <a href="{{ 'research/particles.html' | absolute_url }}" class="image"><img src="{{ '../assets/images/droplet.jpg' |absolute_url }}" alt="blue droplet splashing" /></a>
               <p>We study the interaction of particulates with that of the respiratory system.</p>
             </article>
             <article>
-              <a href="{{ 'research/avianwildlife.html' | absolute_url }}" class="image"><img src="../assets/images/water.jpg" alt="water" /></a>
+              <a href="{{ 'research/avianwildlife.html' | absolute_url }}" class="image"><img src="{{ '../assets/images/water.jpg' | absolute_url }}" alt="water" /></a>
               <p>We develop devices for the targeted deposition of medication in the lung for avian wildlife.</p>
             </article>
           </div>
@@ -78,7 +88,8 @@
 
       <!-- Footer -->
         <footer id="footer">
-           <p  class="copyright">{{ site.title }} &copy; Carlos A. Ruvalcaba. All rights reserved. Webpage built from: <a href="{{ 'about.html#credits' | absolute_url }}">credits</a>.
+           <!-- <p  class="copyright">{{ site.title }} &copy; Carlos A. Ruvalcaba. All rights reserved. -->
+            Webpage <a href="{{ 'about.html#credits' | absolute_url }}">credits</a>.
 <!--           Demo Images: <a href="https://unsplash.com">Unsplash</a>.
           Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich.</a> --></p>
         </footer>
