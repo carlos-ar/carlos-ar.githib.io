@@ -31,7 +31,7 @@ markdown: kramdown
 
 # adding stuff for pages
 paginate: 3
-paginate_path: "updates/page:num"
+paginate_path: "/updates/page:num/"
 
 # adding collections
 collections_dir: collections
@@ -40,5 +40,11 @@ collections:
     sort_by: lesson
     output: true
     permalink: /teaching/:collection/:name
-  pro:
-    sort_by: val
+  ucleads2020:
+    sort_by: lesson
+    output: true
+    permalink: /teaching/ucleads/:name
+
+
+# excerpts
+excerpt_separator: <!--more-->

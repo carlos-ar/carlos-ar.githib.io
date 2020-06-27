@@ -26,8 +26,9 @@
                 	</header>
                   <ul class="alt">
                     <li>
-                      {% for lesson_pp in site.pretty_pictures %}
-                      <a href=" {{ lesson_pp.url }} " class="button">{{ lesson_pp.title }}</a> 
+                      {% assign cname = page.collection %}
+                      {% for lesson in site[cname] %}
+                      <a href=" {{ lesson.url }} " class="button">{{ lesson.title }}</a> 
                       {% endfor %}
                     </li>
                     <li>Content provided under a Creative Commons Attribution license, <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a>. &copy;2020 Carlos A. Ruvalcaba.</li>
@@ -38,9 +39,7 @@
                   {% if page.image %}
                 	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
                   {% endif %}
-
-                {{ content }}
-
+                  {{ content }}
               </div>
           </div>
 

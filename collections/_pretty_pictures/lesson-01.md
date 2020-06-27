@@ -4,6 +4,8 @@ title: Lesson 01
 lesson_name: Conveying research through images
 lesson: 1
 ---
+* TOC
+{:toc}
 
 One of the most difficult aspect of research communication is finding effective graphics for your presentation, poster, or journal publication. I can spend hours on a single research image if I really need to convey a specific idea that I cannot find in free images. Alternatively, free images that I may help convey my idea misses key aspects of what I want to highlight, and may overcompensate with other aspects that are the highlight of their original idea.
 

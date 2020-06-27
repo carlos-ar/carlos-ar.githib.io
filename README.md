@@ -1,10 +1,12 @@
 # Carlos' Website
 
-This website is built 
+I built this webpage using [Jekyll](https://jekyllrb.com/) in order to make sure I could integrate IPython notebooks. This webpage's design was originally developed on [HTML5 UP](https://html5up.net/). The Jekyll integration was created by [Andrew Banchich](https://andrewbanchi.ch/), and part of the [Editorial Jekyll Theme](https://github.com/andrewbanchich/editorial-jekyll-theme). The majority of the images are gathered from the [free-to-use](https://unsplash.com/license) website, [Unsplash](https://unsplash.com/). To embed YouTube videos, I've graciously borrowed from [here](https://github.com/nathancy/jekyll-embed-video#responsive-videos), which made this incredibly simple.
 
- 
+# Research, Teaching, and More
 
-# Credits
+My website is a collection of research projects that I work on at UC Davis, during my doctoral degree program. I also am involved in a variety of teaching endeavors, that I plan to make public over the years. This will be the primary location for those.
+
+# Original Credits
 
 Original README from HTML5 UP:
 
