@@ -9,6 +9,7 @@ win_anaconda_install: p_di4Zn4wz4
 mac_anaconda_install: p_di4Zn4wz4
 win_gitbash_install: p_di4Zn4wz4
 open_jupyter: p_di4Zn4wz4
+r_anaconda_jupyter: 0c9P7izOG2c
 ---
 * TOC
 {:toc}
@@ -124,6 +125,10 @@ Since you have already downloaded and installed Anaconda, now you just need to c
 [https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)
 
 Once you have installed this, you should be able to run the code in this tutorial. You will run that once again for the installation check.
+
+{% include youtubePlayer.html id=page.r_anaconda_jupyter %}
+
+https://youtu.be/0c9P7izOG2c
 
 ## Command line emulator
 
