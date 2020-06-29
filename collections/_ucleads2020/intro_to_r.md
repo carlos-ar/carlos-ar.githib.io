@@ -4,7 +4,7 @@ title:  Preparing for R
 lesson_name: Guides for installation
 lesson: 1
 win_r_install: p_di4Zn4wz4
-mac_r_install: p_di4Zn4wz4
+mac_r_install: Yn1hWAkJZK0
 win_anaconda_install: p_di4Zn4wz4
 mac_anaconda_install: p_di4Zn4wz4
 win_gitbash_install: p_di4Zn4wz4
