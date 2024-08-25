@@ -9,11 +9,6 @@ on:
   pull_request:
   workflow_dispatch:
 
-env:
-  SHELLOPTS: 'errexit:pipefail'
-  REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository }}
-
 permissions:
   contents: write
 
