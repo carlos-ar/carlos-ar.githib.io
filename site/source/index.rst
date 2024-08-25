@@ -12,7 +12,7 @@ documentation for details.
 
 
 * List 1
-
+* List 2
 
 .. toctree::
    :maxdepth: 2
