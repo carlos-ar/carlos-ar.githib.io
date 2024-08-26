@@ -1,14 +1,11 @@
+# new additions
+_build
+*.swp
+*.pyc
+**/*__pycache__
+
 # courtesy of
 # https://gist.github.com/bradonomics/cf5984b6799da7fdfafd
-#### Jekyll ###
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
- 
-# not sure why...
-*.gem
-.jekyll-cache*
 
 ### Gulp ###
 package.json

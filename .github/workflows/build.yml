@@ -19,9 +19,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: Install dependencies
-        run: |
-          pip install sphinx sphinx_book_theme myst_parser
+        run: pip install -r requirements.txt
       - name: Build Site
         working-directory: site
         run: make html

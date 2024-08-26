@@ -1,0 +1,9 @@
+ablog
+myst-nb
+Sphinx
+sphinx-autobuild
+sphinxcontrib-bibtex
+sphinxcontrib-youtube
+sphinx-togglebutton
+sphinx-tabs
+sphinx-design
