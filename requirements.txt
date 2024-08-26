@@ -1,6 +1,7 @@
 ablog
 myst-nb
 Sphinx
+sphinx-book-theme
 sphinx-autobuild
 sphinxcontrib-bibtex
 sphinxcontrib-youtube
